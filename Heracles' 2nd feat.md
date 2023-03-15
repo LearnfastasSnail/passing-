@@ -12,6 +12,11 @@
 
 ## Work on pictures 
 
+Чтобы вставить изображение в текст, нужно написать следующее: 
+![Это первый подвиг](Heracles.jpg)
+
+
+
 ## URLs
 
 ## Tables 
@@ -19,3 +24,5 @@
 ## Citation 
 
 ## Conclusions 
+
+[def]: 1пГ.jpeg
